@@ -7,6 +7,10 @@ package actividad34;
  *
  * @author magec
  */
+/**
+ *
+ * esto es para demostrar los cambios en el historial del proyecto
+ */
 public class Calculadora {
 
     public int sumar(int x, int y) {
